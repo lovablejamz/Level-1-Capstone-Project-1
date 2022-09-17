@@ -1,4 +1,4 @@
-# Level-1---Capstone-Project-1
+# Level-1-Capstone-Project-1
 
 This program (finance_calculators.py) allows the user to access two different financial calculators:
 1 - an investment calculator
